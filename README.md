@@ -1,6 +1,6 @@
 ## 👦 Olá, meu nome é Roberto Lourenço!
 
-Sou um Desenvolvedor Full Stack apaixonado por transformar ideias em experiências digitais incríveis. Acredito que código bonito é tão importante quanto código funcional, e por isso amo criar interfaces que unem tecnologia, usabilidade e design.
+Acredito que um código eficiente vai além da funcionalidade – priorizo estrutura limpa, performance e manutenibilidade para criar soluções que não apenas funcionam, mas evoluem.
 
 ### 🚀 Minhas Skills
 
@@ -22,12 +22,12 @@ Sou um Desenvolvedor Full Stack apaixonado por transformar ideias em experiênci
 
 ### 💬 Vamos conversar!
 
-Fique à vontade para me chamar no:
+Fique à vontade para me chamar
 <div> 
 <a href="https://www.linkedin.com/in/roberto-lourenco-jr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
 ---
 
-### ⭐ GitHub Stats
+<!--### ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roberto-lourenco&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roberto-lourenco&show_icons=true)-->
