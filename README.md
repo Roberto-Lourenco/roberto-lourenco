@@ -20,10 +20,7 @@ Acredito que um código eficiente vai além da funcionalidade – priorizo estru
 
 ---
 
-### 💬 Vamos conversar!
 
-Fique à vontade para me chamar
-<div> 
 <a href="https://www.linkedin.com/in/roberto-lourenco-jr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
 ---
