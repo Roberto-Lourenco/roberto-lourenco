@@ -1,21 +1,26 @@
-## 👦 Olá, meu nome é Roberto Lourenço!
+## 👦 Olá, meu nome é Roberto Lourenço
 
 Acredito que um código eficiente vai além da funcionalidade – priorizo estrutura limpa, performance e manutenibilidade para criar soluções que não apenas funcionam, mas evoluem.
 
-### 🚀 Minhas Skills
+### 🚀 Hard Skills
 
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="MySQL"/></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="MySQL"/></code>
 
 ---
 
 ### 📘 Aprendendo atualmente:
 
-<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
-<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django"/></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" alt="FastAPI"/></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"/></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS"/></code>
+
 
 
 ---
