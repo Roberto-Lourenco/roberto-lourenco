@@ -16,8 +16,6 @@ Acredito que um código eficiente vai além da funcionalidade – priorizo estru
 
 ### 📘 Aprendendo atualmente:
 
-<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code>
-<code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" alt="FastAPI"/></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"/></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS"/></code>
 
