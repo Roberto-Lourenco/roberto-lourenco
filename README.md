@@ -9,37 +9,30 @@
   <li>🚀 Buscando aprimorar o fluxo entre desenvolvimento e operação para criar sistemas mais eficientes e confiáveis.</li>
 </ul>
 
-
-
 ><h3 align="start">Hard Skills</h3>
 <div>
   <img src="https://skillicons.dev/icons?i=cs" height="48" alt="c# logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="48" alt=".net logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="postgres logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="48" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="48" alt="aws logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="48" alt="azure logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="48" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="48" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="48" alt="postman logo"  />
 </div>
 
 
-
-><h3 align="start">Redes profissionais</h3>
-<div align="start">
-  <a href="https://www.linkedin.com/in/roberto-lourenco-jr/" target="_blank">
-    <img width="90" height="90" alt="Linkedin logo" src="https://github.com/user-attachments/assets/6dbcc8a9-87fd-40d5-a8de-37ec887da641" />
-  </a>
-</div>
 
 <hr>
 
